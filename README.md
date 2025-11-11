@@ -1,2 +1,2 @@
-# lexicarusowebsite.github.io/thepizzaplace
+# lexicaruso.github.io/thepizzaplace
 Lexi's Website
