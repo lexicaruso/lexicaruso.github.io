@@ -1,2 +1,2 @@
-# lexicaruso.github.io
+# lexicarusowebsite.github.io
 Lexi's Website
